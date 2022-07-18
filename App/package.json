@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "react-scripts test",
+    "test:coverage": "react-scripts test --coverage --watchAll=false",
     "eject": "react-scripts eject"
   },
   "dependencies": {
