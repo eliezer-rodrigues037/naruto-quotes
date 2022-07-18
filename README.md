@@ -14,7 +14,7 @@ Nessesário ter o Node corretamente instalado.
 Para rodar o projeto, é necessário instalar o Python, e seguir as intruções no [Repositório do projeto](https://github.com/celso-henrique/naruto-quotes-server)
 
  ```$
- git clone 
+ git clone https://github.com/eliezer-rodrigues037/naruto-quotes.git
  ```
  ```$
  cd ./App/
