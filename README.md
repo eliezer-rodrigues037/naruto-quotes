@@ -34,7 +34,7 @@ Para rodar o projeto, é necessário instalar o Python, e seguir as intruções 
  ```$
  npm run dev
  ```
-### Testes 
+### Testes unitários.
 
  ```$
  npm run test
