@@ -1,16 +1,13 @@
 # Naruto-quotes
 
-Projeto feito durante o bootcamp Impulso Javascript,<br>
-motando manualmente durante a aula.<br>
-Consiste de uma simples página que consome de uma API frases de pernsonagems do anime Naruto, e as exibe aleatóriamente.<br>
-Ao clicar no botão Quote No Jutso, uma nova frase é carregada, e um audio é tocado.<br>
+Projeto feito durante o bootcamp Impulso Javascript, montando manualmente durante a aula. Consiste em uma simples página que consome de uma API frases de personagens do anime Naruto, e as exibe aleatoriamente. Ao clicar no botão Quote No Jutso, uma nova frase é carregada, e um áudio é tocado. 
 
 ![image](https://user-images.githubusercontent.com/30753246/179448774-58b80615-ee0f-4ff7-b014-256196226c5f.png)
 
 [Repositório original realizado pelo orientador](https://github.com/celso-henrique/naruto-quotes-client)
 
 
-O intuido do projeto foi entender a utilziado dos React Hooks, com a utilziação do jest e React-Jest, TDD e boas práticas.<br>
+O intuito do projeto foi entender a utilização dos React Hooks, com a utilização do Jest, React-Jest, TDD e boas práticas.<br>
 
 A ferramenta utilziada para montar e hostear a aplicação foi diferente da uitlizada em aula, substituida pelo [Vite](https://vitejs.dev/),<br>
 que é uma ferramente de build mais moderna.<br>
